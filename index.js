@@ -5,11 +5,11 @@
 * hargai pembuat skrip woy!!!
 */
 const XPTN = 'Aswin bot'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/maslent11'; // Nama Instagramlu cok
+const instagram = 'Kagak punya'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6281440092890'; // Nomor whatsapplu cok
 const aktif = '2 jam'; // Kapan bot lu aktif
-const groupwa = 'https://chat.whatsapp.com/IKmRs4a36fIAyn7X16jpwL'; // OFFICIAL GRUP LU 1
-const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // OFFICIAL GRUP LU 2
+const groupwa = 'Kgak punya'; // OFFICIAL GRUP LU 1
+const youtube = 'Kagak ada subreker'; // OFFICIAL GRUP LU 2
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -1720,7 +1720,7 @@ if (text.includes(".alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah XP-TN
+//Tolonglah bro jangan di ubah 
 
 
 })
